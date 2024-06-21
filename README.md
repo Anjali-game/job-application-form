@@ -1,3 +1,5 @@
+![Screenshot (397)](https://github.com/Anjali-game/job-application-form/assets/136882525/eea7aa4b-dc86-4d14-a808-4bc3d404db3a)
+![Screenshot (396)](https://github.com/Anjali-game/job-application-form/assets/136882525/a5ac7b74-12c8-4f0d-809e-0f284d2e1cf3)
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
